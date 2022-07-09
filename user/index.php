@@ -321,7 +321,7 @@ if (isset($_POST['savecard'])) {
 											} else {
 												echo "<td class=\"text-center p-0\" colspan=\"5\">
 												<p class=\"mb-5 mt-5\">
-													Heniz herhangi bir siparişiniz bulunmamaktadır.
+													Henüz herhangi bir siparişiniz bulunmamaktadır.
 												</p>
 											</td>";
 											}
